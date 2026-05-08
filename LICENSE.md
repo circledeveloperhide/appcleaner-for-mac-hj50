@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with professional AppCleaner for macOS Module | junk-removal + menu-bar-customization, the #1 module. Includes junk-removal and menu-bar-customization
 
 
 
